@@ -1,8 +1,5 @@
 # Data Types In C++
 
-## Name: Maitraiyee Vashistha
-## PRN: 24070123057
-## Division: ENTC-A3 
 ## Title: Data Types in C++  
 
 
